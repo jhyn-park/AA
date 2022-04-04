@@ -1,6 +1,7 @@
-### <h1>Hi there 👋</h1>
-
+### Hi there 👋
 ![](https://img.shields.io/badge/logo-frontend-success?logo=github)
+
+
 
 ```
 🚀 Technology
@@ -19,12 +20,11 @@
   </p>
 </p>
 
-
-
-
+###    
 ```
 📌 Status
 ```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyun1220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
