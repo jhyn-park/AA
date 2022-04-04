@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/logo-frontend-success?logo=github)
+![](https://img.shields.io/badge/version-v0.0.1-success)
 
 
 
@@ -18,6 +18,16 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
   </p>
+</p>
+
+###    
+```
+📃 Tool
+```
+<p>
+  <img src="https://img.shields.io/badge/Visual Studio Code-24A4EA?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3BD580?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=GitHub&logoColor=white"/>
 </p>
 
 ###    
