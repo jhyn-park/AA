@@ -57,6 +57,5 @@ Here are some ideas to get you started:
 
 ###    
 ```
-🔥 Goals
+🔥 Goals "데이터를 가져오고, 재정립해서, 나타낸다"
 ```
-"통신을 해서, 데이터를 가져오고, 재정립해서, 화면에 나타낸다"
